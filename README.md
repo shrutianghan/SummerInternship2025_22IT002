@@ -19,12 +19,14 @@
 **Day 5:** Created Pivot Tables & Charts for visualization.  
 
 
+
 ### 🐍 Week 2 – Python Basics & Data Handling  
 **Day 6:** Installed Python & Jupyter Notebook, learned syntax & variables.  
 **Day 7:** Practiced loops & conditional statements.  
 **Day 8:** Functions & file handling.  
 **Day 9:** Introduction to NumPy arrays & operations.  
 **Day 10:** Introduction to Pandas for data handling.  
+
 
 
 ### 📊 Week 3 – Python Libraries & EDA  
@@ -35,12 +37,14 @@
 **Day 15:** Compiled EDA summary report.  
 
 
+
 ### 🗄️ Week 4 – SQL & Power BI  
 **Day 16:** SQL introduction, SELECT queries.  
 **Day 17:** Filtering, sorting, aggregate functions.  
 **Day 18:** Joins & GROUP BY.  
 **Day 19:** Power BI basics – importing data, visuals.  
 **Day 20:** Built & presented Power BI dashboard.  
+
 
 
 ### 🌐 Week 5 – Digital Marketing  
