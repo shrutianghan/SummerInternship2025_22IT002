@@ -11,7 +11,7 @@
 
 ## 📌 Weekly Breakdown  
 
-### 📘 Week 1 – Introduction & Excel  
+## 📘 Week 1 – Introduction & Excel  
 **Day 1:** Orientation, company structure, internship objectives.  
 **Day 2:** Setup Excel/Sheets, dataset exploration, file organization.  
 **Day 3:** Practiced Excel formulas (SUM, AVERAGE, IF).  
@@ -20,7 +20,7 @@
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/fa303157-60b5-47f6-a835-076cf01620c3" />
 
 
-### 🐍 Week 2 – Python Basics & Data Handling  
+## 🐍 Week 2 – Python Basics & Data Handling  
 **Day 6:** Installed Python & Jupyter Notebook, learned syntax & variables.  
 **Day 7:** Practiced loops & conditional statements.  
 **Day 8:** Functions & file handling.  
@@ -29,7 +29,7 @@
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/7500cd57-0214-4a1a-adab-8dbb433a4d15" />
 
 
-### 📊 Week 3 – Python Libraries & EDA  
+## 📊 Week 3 – Python Libraries & EDA  
 **Day 11:** Advanced Pandas (grouping, merging, joining).  
 **Day 12:** Visualizations with Matplotlib.  
 **Day 13:** Visualizations with Seaborn.  
@@ -38,9 +38,7 @@
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/4aff9308-e44f-41e8-bc94-25d81affca14" />
 
 
-
-
-### 🗄️ Week 4 – SQL & Power BI  
+## 🗄️ Week 4 – SQL & Power BI  
 **Day 16:** SQL introduction, SELECT queries.  
 **Day 17:** Filtering, sorting, aggregate functions.  
 **Day 18:** Joins & GROUP BY.  
@@ -49,9 +47,7 @@
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/265fedf8-8c24-4c51-90c2-21354f7d0985" />
 
 
-
-
-### 🌐 Week 5 – Digital Marketing  
+## 🌐 Week 5 – Digital Marketing  
 **Day 21:** Fundamentals of SEO, SEM, and SMM.  
 **Day 22:** Keyword research with Google Keyword Planner.  
 **Day 23:** Competitor SEO & social media analysis.  
