@@ -17,7 +17,7 @@
 **Day 3:** Practiced Excel formulas (SUM, AVERAGE, IF).  
 **Day 4:** Data cleaning in Excel (remove duplicates, formatting).  
 **Day 5:** Created Pivot Tables & Charts for visualization.  
-
+<img width="1024" height="585" alt="image" src="https://github.com/user-attachments/assets/fa303157-60b5-47f6-a835-076cf01620c3" />
 
 
 ### 🐍 Week 2 – Python Basics & Data Handling  
@@ -26,6 +26,8 @@
 **Day 8:** Functions & file handling.  
 **Day 9:** Introduction to NumPy arrays & operations.  
 **Day 10:** Introduction to Pandas for data handling.  
+<img width="2800" height="1881" alt="image" src="https://github.com/user-attachments/assets/7500cd57-0214-4a1a-adab-8dbb433a4d15" />
+
 
 
 
