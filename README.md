@@ -3,8 +3,8 @@
 ## 📑 Internship Report  
 **🎯 Title:** Data Analysis & Digital Marketing Internship  
 **⏳ Duration:** 5 Weeks (25 Working Days)  
-**🏢 Organization:** Hidden Techies
-**👨‍🎓 Intern:** Shruti Anghan
+**🏢 Organization:** Hidden Techies<br>
+**👨‍🎓 Intern:** Shruti Anghan<br>
 **📅 Period:** 19 May 2025 – 20 June 2025  
 
 ---
@@ -26,9 +26,7 @@
 **Day 8:** Functions & file handling.  
 **Day 9:** Introduction to NumPy arrays & operations.  
 **Day 10:** Introduction to Pandas for data handling.  
-<img width="2800" height="1881" alt="image" src="https://github.com/user-attachments/assets/7500cd57-0214-4a1a-adab-8dbb433a4d15" />
-
-
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/7500cd57-0214-4a1a-adab-8dbb433a4d15" />
 
 
 ### 📊 Week 3 – Python Libraries & EDA  
@@ -37,6 +35,8 @@
 **Day 13:** Visualizations with Seaborn.  
 **Day 14:** Performed Exploratory Data Analysis (EDA).  
 **Day 15:** Compiled EDA summary report.  
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/4aff9308-e44f-41e8-bc94-25d81affca14" />
+
 
 
 
@@ -46,6 +46,8 @@
 **Day 18:** Joins & GROUP BY.  
 **Day 19:** Power BI basics – importing data, visuals.  
 **Day 20:** Built & presented Power BI dashboard.  
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/265fedf8-8c24-4c51-90c2-21354f7d0985" />
+
 
 
 
@@ -54,7 +56,9 @@
 **Day 22:** Keyword research with Google Keyword Planner.  
 **Day 23:** Competitor SEO & social media analysis.  
 **Day 24:** Created a content calendar for social media.  
-**Day 25:** Final report on campaign performance & learnings.  
+**Day 25:** Final report on campaign performance & learnings. 
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/fca67efe-8889-493c-af6d-5cd4c59a6598" />
+
 
 ---
 
