@@ -12,11 +12,11 @@
 ## 📌 Weekly Breakdown  
 
 ## 📘 Week 1 – Introduction & Excel  
-**Day 1:** Orientation, company structure, internship objectives.  
-**Day 2:** Setup Excel/Sheets, dataset exploration, file organization.  
-**Day 3:** Practiced Excel formulas (SUM, AVERAGE, IF).  
-**Day 4:** Data cleaning in Excel (remove duplicates, formatting).  
-**Day 5:** Created Pivot Tables & Charts for visualization.<br>
+**1)** Orientation, company structure, internship objectives.  
+**2)** Setup Excel/Sheets, dataset exploration, file organization.  
+**3)** Practiced Excel formulas (SUM, AVERAGE, IF).  
+**4)** Data cleaning in Excel (remove duplicates, formatting).  
+**5)** Created Pivot Tables & Charts for visualization.<br>
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/fa303157-60b5-47f6-a835-076cf01620c3" />
 
 
